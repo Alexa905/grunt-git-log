@@ -1,0 +1,36 @@
+{
+  "name": "git_log",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Alexa905/grunt-git-log",
+  "author": {
+    "name": "Tatyana Alexeenkova",
+    "email": "alexeenkovaTanya@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexa905/grunt-git-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alexa905/grunt-git-log/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Alexa905/grunt-git-log/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "^0.11.3"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "git-log"
+  ]
+}
